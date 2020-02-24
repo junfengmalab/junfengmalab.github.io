@@ -1,0 +1,11 @@
+name: "Ma Lab @ GUMC"
+description: "This is the official web page for the Junfeng Ma Lab at GU."
+
+url: "http://junfengmalab.org"
+
+paginate: 5
+paginate_path: "news/page:num"
+
+permalink: pretty
+highlighter: rouge
+markdown: kramdown

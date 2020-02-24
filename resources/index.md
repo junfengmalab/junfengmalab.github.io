@@ -1,0 +1,23 @@
+---
+title: Resources in the Ma Lab
+layout: default
+group: resources
+---
+
+## Resources in the Ma lab
+
+
+### Equipment
+
+The Ma lab currently hosts 5 sets of HPLC/UPLC systems (including nanoAcquity from Waters and Ultimate 3000 from Dionex), 4 sets of state-of-the-art mass spectrometers (including TripleTOF 6600 from Sciex, Q-TRAP 6500 from Sciex and Orbitrap Fusion Lumos from Thermo Fisher Scientific), among others. 
+
+### Collaborators
+
+The Ma lab is actively collaborating with a number of internal and external investigators. 
+
+### Funding
+The Ma lab pursues and accepts support from public and private funding agencies. 
+
+### Positions 
+As a team devoted to answering biomedical questions with multidisciplinary approaches, we are always looking for individuals of various backgrounds (including chemistry, biology, and medicine) to work with us!
+Ma lab welcomes talented and self-motivated students and scholars to join us so that we can do something very interesting together! Undergraduate and master students are welcome as interns and research assistants. PhD students are also welcome for rotation and thesis.  Training opportunities might also be available to exchange students, visiting scholars, and post-doc fellows. Please feel free to email Dr. Junfeng Ma (junfeng.ma@georgetown.edu) for possibilities.
