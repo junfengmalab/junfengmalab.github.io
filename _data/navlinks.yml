@@ -26,6 +26,6 @@
 #   link: "/links"
 #   group: links
 
-- name: Private
-  link: "https://sites.google.com/view/junfengmalab/"
-  group: private
+# - name: Private
+#   link: "https://sites.google.com/view/junfengmalab/"
+#   group: private
