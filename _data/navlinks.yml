@@ -2,6 +2,14 @@
   link: "/"
   group: home
 
+- name: Members
+  link: "/members"
+  group: members
+
+- name: Research
+  link: "/research"
+  group: research
+
 - name: Resources
   link: "/resources"
   group: resources
@@ -10,13 +18,9 @@
   link: "/publications"
   group: publications
 
-- name: Members
-  link: "/members"
-  group: members
-
-- name: News
-  link: "/news"
-  group: news
+# - name: News
+#   link: "/news"
+#   group: news
 
 - name: Contact
   link: "/contact"
