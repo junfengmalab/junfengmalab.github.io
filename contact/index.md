@@ -15,9 +15,8 @@ group: contact
   Assistant Professor  <br>
   Department of Oncology  <br>
   Georgetown University Medical Center  <br>
-  <br>
-  email: junfeng.ma@georgetown.edu  <br>
-  tel: 202-687-3802
+  Email: junfeng.ma@georgetown.edu  <br>
+  Tel: 202-687-3802
 
 </div>
 
@@ -32,11 +31,10 @@ group: contact
 <div class="col-md-4">
 
 Georgetown University Medical Center<br>
-Preclinical Science Building<br>
-GD11<br>
+GD-11 Preclinical Science Building<br>
 3970 Reservior Road NW<br>
 Washington DC 20057<br>
-tel: 202-687-3802
+Tel: 202-687-3802
 
 </div>
 
