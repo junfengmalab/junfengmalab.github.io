@@ -2,6 +2,14 @@
   link: "/"
   group: home
 
+- name: Members
+  link: "/members"
+  group: members
+
+- name: Research
+  link: "/research"
+  group: research
+
 - name: Resources
   link: "/resources"
   group: resources
@@ -9,10 +17,6 @@
 - name: Publications
   link: "/publications"
   group: publications
-
-- name: Members
-  link: "/members"
-  group: members
 
 # - name: News
 #   link: "/news"
@@ -25,6 +29,7 @@
 # - name: links
 #   link: "/links"
 #   group: links
+
 
 - name: Private
   link: "https://sites.google.com/view/junfengmalab/"
