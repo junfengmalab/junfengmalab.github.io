@@ -12,7 +12,4 @@ Dr. Junfeng Ma’s research team is mainly focused on the study of proteins and 
 
 Besides basic research, we look forward to conducting translational research for the discovery of new biomarkers and therapeutics for precision medicine. 
 
-We are open to collaborate with national and international investigators to answer biomedical questions of interest! 
-
-
 ![Bottom picture](/static/img/homepage_bottom.png)
