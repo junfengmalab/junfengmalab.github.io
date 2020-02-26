@@ -7,23 +7,23 @@ group: publications
 
 A full list of publications can be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=EiWAopQAAAAJ&view_op=list_works)
 	
-41. Stéphan Hardivillé, Partha S Banerjee, Ebru S Selen Alpergin, Danielle M Smith, Guanghui Han, **Junfeng Ma**, C Conover Talbot Jr, Ping Hu, Michael J Wolfgang, Gerald W Hart. TATA-Box Binding Protein O-GlcNAcylation at T114 Regulates Formation of the B-TFIID Complex and Is Critical for Metabolic Gene Regulation. Molecular Cell, 2020, in press, https://doi.org/10.1016/j.molcel.2019.11.022.
+- Stéphan Hardivillé, Partha S Banerjee, Ebru S Selen Alpergin, Danielle M Smith, Guanghui Han, **Junfeng Ma**, C Conover Talbot Jr, Ping Hu, Michael J Wolfgang, Gerald W Hart. TATA-Box Binding Protein O-GlcNAcylation at T114 Regulates Formation of the B-TFIID Complex and Is Critical for Metabolic Gene Regulation. Molecular Cell, 2020, in press, https://doi.org/10.1016/j.molcel.2019.11.022.
 
-40. **Junfeng Ma**, Weihan Wang, Zengxia Li, Jeffrey Shabanowitz, Donald F Hunt, Gerald W Hart. O-GlcNAc site mapping by using a combination of chemoenzymatic labeling, copper-free click chemistry, reductive cleavage, and electron-transfer dissociation mass spectrometry. Analytical Chemistry 2019, 91(4), 2620-2625.
+- **Junfeng Ma**, Weihan Wang, Zengxia Li, Jeffrey Shabanowitz, Donald F Hunt, Gerald W Hart. O-GlcNAc site mapping by using a combination of chemoenzymatic labeling, copper-free click chemistry, reductive cleavage, and electron-transfer dissociation mass spectrometry. Analytical Chemistry 2019, 91(4), 2620-2625.
 
-39. Dalal Aldeghaither, David Zahavi, Joseph Murray, Elana Fertig, Garrett Graham, Yong-Wei Zhang, Allison O'Connell, **Junfeng Ma**, Sandra Jablonski, Louis Weiner. A mechanism of resistance to antibody-targeted immune attack. Cancer Immunology Research 2019, 7(2), 230-243.  
+- Dalal Aldeghaither, David Zahavi, Joseph Murray, Elana Fertig, Garrett Graham, Yong-Wei Zhang, Allison O'Connell, **Junfeng Ma**, Sandra Jablonski, Louis Weiner. A mechanism of resistance to antibody-targeted immune attack. Cancer Immunology Research 2019, 7(2), 230-243.  
 
-38. Evgenia Gourgari, **Junfeng Ma**, Martin P. Playford, Nehal N. Mehta, Radoslav Goldman, Alan T. Remaley, Scott M. Gordon. Proteomic alterations of HDL in youth with type 1 diabetes and their associations with glycemic control: a case-control study. Cardiovascular Diabetology 2019, 18, 43.
+- Evgenia Gourgari, **Junfeng Ma**, Martin P. Playford, Nehal N. Mehta, Radoslav Goldman, Alan T. Remaley, Scott M. Gordon. Proteomic alterations of HDL in youth with type 1 diabetes and their associations with glycemic control: a case-control study. Cardiovascular Diabetology 2019, 18, 43.
 
-37. **Junfeng Ma**, Miloslav Sanda, Renhuizi Wei, Lihua Zhang, Radoslav Goldman. Quantitative analysis of core fucosylation of serum proteins in liver diseases by LC-MS-MRM. Journal of Proteomics 2018, 189, 67-74. 
+- **Junfeng Ma**, Miloslav Sanda, Renhuizi Wei, Lihua Zhang, Radoslav Goldman. Quantitative analysis of core fucosylation of serum proteins in liver diseases by LC-MS-MRM. Journal of Proteomics 2018, 189, 67-74. 
 
-36. Heidi Coia, Ning Ma, Yanqi Hou, Marcin Dyba, Ying Fu, M. Idalia Cruz, Carlos Benliez, Garrett Graham, Justine McCutcheon, Yun-Ling Zheng, Bing Sun, Bhaskar Kallakury, **Junfeng Ma**, Hong-Bin Fang, Deborah Berry, Vinona Muralidaran, Fung-Lung Chung. Prevention of lipid peroxidation-derived cyclic DNA adduct and mutation in high-fat diet-induced hepatocarcinogenesis by Theaphenon E. Cancer Prevention Research 2018, 11(10), 665-676.
+- Heidi Coia, Ning Ma, Yanqi Hou, Marcin Dyba, Ying Fu, M. Idalia Cruz, Carlos Benliez, Garrett Graham, Justine McCutcheon, Yun-Ling Zheng, Bing Sun, Bhaskar Kallakury, **Junfeng Ma**, Hong-Bin Fang, Deborah Berry, Vinona Muralidaran, Fung-Lung Chung. Prevention of lipid peroxidation-derived cyclic DNA adduct and mutation in high-fat diet-induced hepatocarcinogenesis by Theaphenon E. Cancer Prevention Research 2018, 11(10), 665-676.
 
-35. Tingting Wang, Yihui Chen, **Junfeng Ma**, Zhenfeng Jin, Mengsa Chai, Xunwen Xiao, Lihua Zhang, Yukui Zhang.  A polyethyleneimine-modified attapulgite as a novel solid support in matrix solid-phase dispersion for the extraction of cadmium traces in seafood products. Talanta 2018, 180, 254-259.
+- Tingting Wang, Yihui Chen, **Junfeng Ma**, Zhenfeng Jin, Mengsa Chai, Xunwen Xiao, Lihua Zhang, Yukui Zhang.  A polyethyleneimine-modified attapulgite as a novel solid support in matrix solid-phase dispersion for the extraction of cadmium traces in seafood products. Talanta 2018, 180, 254-259.
 
-34. **Junfeng Ma**, Gerald Hart. Analysis of Protein O-GlcNAcylation by Mass Spectrometry. Current Protocols in Protein Science, Wiley. 2017, UNIT 24.10. DOI: 10.1002/cpps.24
+- **Junfeng Ma**, Gerald Hart. Analysis of Protein O-GlcNAcylation by Mass Spectrometry. Current Protocols in Protein Science, Wiley. 2017, UNIT 24.10. DOI: 10.1002/cpps.24
 
-33. Tingting Wang, **Junfeng Ma**, Yihui Chen, Ying Li, Lihua Zhang, Yukui Zhang. Analysis of melamine and analogs in complex matrices: Advances and trends. Journal of Separation Science 2017, 40 (1), 170-182.
+- Tingting Wang, **Junfeng Ma**, Yihui Chen, Ying Li, Lihua Zhang, Yukui Zhang. Analysis of melamine and analogs in complex matrices: Advances and trends. Journal of Separation Science 2017, 40 (1), 170-182.
 
 32. Tinging Wang, Yihui Chen, **Junfeng Ma**, Qian Qian, Zhenfeng Jin, Lihua Zhang, Yukui Zhang. Attapulgite nanoparticles-modified monolithic column for hydrophilic in-tube solid-phase microextraction of cyromazine and melamine. Analytical chemistry 88 (3), 1535-1541.
 
