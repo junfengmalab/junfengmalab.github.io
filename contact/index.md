@@ -30,8 +30,8 @@ group: contact
 
 <div class="col-md-4">
 
-Georgetown University Medical Center<br>
 GD-11 Preclinical Science Building<br>
+Georgetown University Medical Center<br>
 3970 Reservior Road NW<br>
 Washington DC 20057<br>
 Tel: 202-687-3802
