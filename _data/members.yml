@@ -2,29 +2,28 @@
   image: /static/img/members/junfeng.jpg
   position: Principal Investigator
   email: junfeng.ma@georgetown.edu
-  scholar: "EiWAopQAAAAJ"
-  twitter: "twitter"
+  # scholar: "EiWAopQAAAAJ"
+  edu1: B.S. Biological Engineering (Hubei University of Technology) 
+  edu2: PhD. Analytical Chemistry (Dalian Institute of Chemical Physics, Chinese Academy of Sciences)
+  edu3: Post-Doc. Biological Chemistry (Johns Hopkins University School of Medicine)
 
 - name: Ci Wu
   image: /static/img/members/ciwu.jpg
   position: Research Scientist
   email: cw1056@georgetown.edu
-
-
+  edu1: B.S. Applied Chemistry (Huazhong University of Science and Technology) 
+  edu2: PhD. Analytical Chemistry (Dalian Institute of Chemical Physics, Chinese Academy of Sciences)
 
 - name: Shiwei Lin
   image: /static/img/members/shiweilin.jpg
   position: Research Specialist
   email: sl1606@georgetown.edu
-
-  
+  edu1: M.S., Biostatistics (Georgetown University Medical Center)   
   
 - name: Hansi Wang
   image: /static/img/members/hansiwang.jpg
   position: Graduate Research Assistant
-  email: hw406@georgetown.edu
-
-  
+  email: hw406@georgetown.edu  
 
 - name: Yuanzheng Yue 
   image: /static/img/members/yuanzhenyue.jpeg
@@ -34,4 +33,3 @@
 - name: Si Chen, M.D.
   image: /static/img/members/placeholder.jpg
   position: Visiting Professor
-
