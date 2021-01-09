@@ -11,7 +11,7 @@ group: resources
 
 ### Database server O-GlcNAcAtlas
 
-We maintain O-GlcNAcAtlas (oglcnac.org), the most comprehensive and highly curated database encapsulating all experimentally identified O-GlcNAc sites and proteins in the past decades. We hope it can serve as a great resource to facilitate protein O-GlcNAcylation studies for basic and translational biomedical research.
+We maintain O-GlcNAcAtlas (<a href="https://oglcnac.org/">oglcnac.org</a>), the most comprehensive and highly curated database encapsulating all experimentally identified O-GlcNAc sites and proteins in the past decades. We hope it can serve as a great resource to facilitate protein O-GlcNAcylation studies for basic and translational biomedical research.
 
 <br>
 
