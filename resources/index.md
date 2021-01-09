@@ -8,6 +8,13 @@ group: resources
 
 <br>
 
+
+### Database server O-GlcNAcAtlas
+
+We maintain O-GlcNAcAtlas (oglcnac.org), the most comprehensive and highly curated database encapsulating all experimentally identified O-GlcNAc sites and proteins in the past decades. We hope it can serve as a great resource to facilitate protein O-GlcNAcylation studies for basic and translational biomedical research.
+
+<br>
+
 ### Equipment
 
 The Ma lab currently hosts 5 sets of HPLC/UPLC systems (including nanoAcquity from Waters and Ultimate 3000 from Dionex), 4 sets of state-of-the-art mass spectrometers (including TripleTOF 6600 from Sciex, Q-TRAP 6500 from Sciex and Orbitrap Fusion Lumos from Thermo Fisher Scientific), among others. 
