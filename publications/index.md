@@ -6,8 +6,13 @@ group: publications
 ## Publications  
 
 A full list of publications can be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=EiWAopQAAAAJ&view_op=list_works)
-	
-- Stéphan Hardivillé, Partha S Banerjee, Ebru S Selen Alpergin, Danielle M Smith, Guanghui Han, **Junfeng Ma**, C Conover Talbot Jr, Ping Hu, Michael J Wolfgang, Gerald W Hart. TATA-Box Binding Protein O-GlcNAcylation at T114 Regulates Formation of the B-TFIID Complex and Is Critical for Metabolic Gene Regulation. Molecular Cell, 2020, in press, https://doi.org/10.1016/j.molcel.2019.11.022.
+
+
+- **Junfeng Ma**, Ci Wu, Gerald Hart. Analytical and biochemical perspectives of protein O-GlcNAcylation. Chemical Reviews 2021, DOI: 10.1021/acs.chemrev.0c00884.
+- **Junfeng Ma**, Yaoxiang Li, Chunyan Hou, Ci Wu. O-GlcNAcAtlas: A Database of Experimentally Identified O-GlcNAc Sites and Proteins. Glycobiology 2021, DOI: 10.1093/glycob/cwab003. 
+- Michael Girgis, Yaoxiang Li, **Junfeng Ma**, Miloslav Sanda, Stephen Y Wise, Oluseyi O Fatanmi, Michael D Kaytor, Amrita K Cheema, Vijay K Singh. Comparative proteomic analysis of serum from nonhuman primates administered BIO 300: a promising radiation countermeasure. Scientific reports 2020, 10(1), 1-11. 
+
+- Stéphan Hardivillé, Partha S Banerjee, Ebru S Selen Alpergin, Danielle M Smith, Guanghui Han, **Junfeng Ma**, C Conover Talbot Jr, Ping Hu, Michael J Wolfgang, Gerald W Hart. TATA-Box Binding Protein O-GlcNAcylation at T114 Regulates Formation of the B-TFIID Complex and Is Critical for Metabolic Gene Regulation. Molecular cell 2020, 77(5), 1143-1152.e7 
 
 - **Junfeng Ma**, Weihan Wang, Zengxia Li, Jeffrey Shabanowitz, Donald F Hunt, Gerald W Hart. O-GlcNAc site mapping by using a combination of chemoenzymatic labeling, copper-free click chemistry, reductive cleavage, and electron-transfer dissociation mass spectrometry. Analytical Chemistry 2019, 91(4), 2620-2625.
 
